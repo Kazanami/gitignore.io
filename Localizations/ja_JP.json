@@ -1,0 +1,15 @@
+{
+    "title": "gitignore.io - あなたのプロジェクトに最適な.gitignore を作成します",
+    "description": "%{templateCount} 個のOS、IDE、および プログラミング言語のテンプレートから選択して、あなたのプロジェクトに最適な.gitignoreを作成します",
+    "subtitle": "あなたのプロジェクトに最適な.gitignore を作成します",
+    "searchPlaceholder": "OS, IDE, プログラミング言語を検索...",
+    "searchGo": "作成",
+    "searchDownload": "ファイルをダウンロード",
+    "footer": "現在%{templateCount} 個のOS、IDE、及びプログラミング言語の .gitignore テンプレートが存在します",
+    "commandLineTitle": "コマンドラインドキュメント",
+    "commandLineDescription": "gitignore.io をコマンドラインで動作させる方法を学びましょう!",
+    "videoTitle": "動画でやり方を学ぶ",
+    "videoDescription": "gitignore.ioの動きを動画で学びましょう!",
+    "sourceCodeTitle": "ソースコード",
+    "sourceCodeDescription": "GitHubにgitignore.ioがあります"
+}
